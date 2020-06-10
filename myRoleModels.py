@@ -1,0 +1,19 @@
+print("""Success Models:
+Jim Rohn
+Leonardo DiCaprio
+Elon Musk?
+Warren Buffett
+Jim Simons
+Bill Gates
+Steve Jobs
+Tony Robbins
+Michael Jordan
+LeBron James
+Kobe Bryant
+Ray Dalio
+Jordan Belfort
+Grant Cardone
+Allen Carr
+Donald Trump
+Albert Einstein
+""".title())
