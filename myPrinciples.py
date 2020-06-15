@@ -1,5 +1,8 @@
 principles = """
 
+ךומכ ךערל תבהאו
+רשעתתש רשע
+
 Look to this day!
 For it is life, the very life of life.
 In its brief course
@@ -25,12 +28,20 @@ Never complain.
 
 Being different is a gift.
 
+There is no threats, only gifts
+
 Success: a few simple disciplines practiced every day.
 Failure: a few errors in judgement repeated every day.
 
 No apologies if you've done well and no complaints if you haven't.
 
 Have a heart.
+
+When I'm 85 percent sure - I am 100 percent sure.
+
+Study success.
+
+Study the people who are great influencers.
 
 Think long term.
 
@@ -110,11 +121,53 @@ Thrive on difficulty.
 
 Work hardest when it's hard.
 
+Plan your day in a way that maximizes your effectiveness in accomplishing the goals of the day. Quality is more important than quantity here.
+
+Never underestimate others.
+
+Never put other people down.
+
+Think chess, not checkers.
+
+Have a big head for things.
+
+Question people's logic to understand the subject better and to correct them when they are wrong, you don't wanna compound on their mistakes.
+
+Know who you are.
+
+Try new things, experiment, be curious
+
+Be careful of wishful thinking.
+
+You better be dam sure that Or Shem Tov gets the job done right to the end mf.
+
+It's not over until it's over.
+
+Sarcasm is a pile of crap.
+
+Be authentic.
+
+Don't try to impress other people, do your thing.
+
+Always do the right thing.
+
+Let EXCELLENCE be YOUR brand.
+
+The energy of your INTENTION is what determines your life.
+
+The imagination is a view of whats to come.
+
+Once you open your mouth, you tell the world who you are.
+
+If you dont have a program for your mind, your mind is going to be programmed.
+
+Never make a point without a story and never make a story without a point.
+
 """
 
 trading_principles = """
 Trading principles:
-    Many, many uncorrelated strategies that produce positive expected return.
+    Many, many uncorrelated *strategies* that produce positive expected returns (satisfying positive EV).
 
     The market is made out of people, if you wanna understand trading and win at this game ...
     you need to understand who are the people trading, why, what tools they have and how exactly are they using them ...

@@ -1,81 +1,96 @@
 import pandas as pd
-from datetime import date
-from PIL import Image
+import datetime
 
-mytesla = Image.open('goalsANDdreams\myTesla.png')
-mytesla.show()
+ascii = """
+       _,    _   _    ,_
+  .o888P     Y8o8Y     Y888o.
+ d88888      88888      88888b
+d888888b_  _d88888b_  _d888888b
+8888888888888888888888888888888
+8888888888888888888888888888888
+YJGS8P"Y888P"Y888P"Y888P"Y8888P
+ Y888   '8'   Y8P   '8'   888Y
+  '8o          V          o8'
+    `                     `
+"""
 
-print(date.today())
+dreams = """
+*My purpose is to run a company that creates the best trading algorithms in the world and feel happy and fulfilled.
+*I have a business and it's totally successful by all measures, we created the most amazing company culture.
+*I want a bunch of smart, sophisticated, honest and good people to work for me, I wanna inspire all of them to be great.
+*I want people to feel amazing about working for my company and make tons and tons of money there.
+*I see myself confident, patient - somebody to look up to - successful, wise and has a great character.
+*I am connected with my creator, I'm grateful for everything that happens for me, I'm super thankful every day.
+*I live my life free of worry and stress, there's nothing good that can come from these, I choose to throw them out of my life.
+*My values guide me forward.
+*I'm proud of who I am, I will always be proud of who I am.
+*I love and accept myself for who I am.
+*I'm super rich $$$,$$$,$$$,$$$
+*I'm surrounded by people I love.
+*I've got tons of energy, my body is at the greatest shape its ever been.
+*I promote the things I believe in.
+*I help others, I know how to raise people up.
+*I have a degrees in economics, computer science and mathematics.
+*I look good, I feel good.
+*At the 3rd stage of my life, when its time to give back, I will be ready to do some philantrophy and create a better world.
+*I have a house in Israel and a house in the United States.
+*I also have a vacation house at my favorite spot in the world :)
+*I'm driving the coolest tesla hehe :)
+"""
 
-myDreams = """
-DREAMS:
-My purpose is to run a company that creates the best trading algorithms in the world and feel happy and fulfilled.
+goals = """
+_Business:
+    *Close down all my debts
+        * Bank 10000
+        * Moran 1000
+        * Janie 1500
+    *Develop a trading software with Shay that makes tons of money and put it to action:
+        *Build an earnings model that uses option strategies
+        *Finish the analyst recommendations model - backtest, optimization, wrap up.
+_Things:
+    *Go to the two Tony Robbins seminars in the next 12 months
+    *Put tefilin on every day, stay connected and be grateful to God
+    *Go over your goals every morning and write what you're going to do today to make it a winning day.
+    *Train my back to be straight: use back exercises and UPRIGHT
+    *Listen to motivational stuff 5-7 times a week
+    *Pass the end of July exams: economics, statistics & financing
+        *Watch all lectures in both courses
+        *Do all homework
+        *Do all the previous exams
+    *Go watch an NBA game, preferably the Lakers with LeBron on the court!
+_Self Development:
+    *Accept yourself, forgive yourself, love yourself
+    *Practice mindfulness every day
+    *Live healthy: eat well, do sports, sleep well
+    *Master my craft: finance, computer science (data science), mathematics, statistics and probability
+    *Create a financial plan
+    *Raise my self esteem
+    *Develop better communication skills
+    *Practice confident body language and tonality
+    *Read 2 books a month
+"""
 
-I have a business.
+dreams = dreams.split('\n')
+goals = goals.split('\n')
 
-I see myself confident, patient - somebody to look up to - successful, wise and has a great character.
+file = './docs/' + str(datetime.datetime.now()).split(' ')[0] + '.txt'
 
-I am connected with my creator, I'm grateful for my life.
+with open(file, 'w') as f:
+    def s(s): return s * 100 + '\n'
 
-I love and accept myself for who I am.
+    f.write(ascii)
 
-Im super rich $$$,$$$,$$$,$$$
+    f.write(s('-'))
 
-Im surrounded by people I love.
+    f.write('These are my dreams, I vow to fight for them and to protect them with my life' + '\n')
+    f.write(s('-'))
+    for dream in dreams:
+        f.writelines(dream)
+        f.write('\n')
 
-I live where I want to.
-
-Ive got tons of energy, my body is at the greatest shape its ever been.
-
-I have done my degrees.
-
-I look good, I feel good.
-
-""".title()
-
-myGoals = """
-SHORT TERM GOALS:
-    Economic:
-        *Develop a trading software with Shay that makes tons of money and put it to action:
-            *Finish the analyst recommendations model - backtest, optimization, wrap up.
-            *Start building an earnings model
-        *Pass the July exams: economics, statistics & financing
-            *Watch all lectures in both courses
-            *Do all homework
-            *Do all the previous exams
-                *All by July 10-15
-
-    Things:
-        *Go to the two Tony Robbins seminars in the next 12 months
-        *Put tefilin on every day, stay connected and be grateful to God
-        *Go over your goals every morning and write what you're going to do today to make it a winning day.
-        *Train my back to be straight: use back exercises and UPRIGHT
-        *Listen to motivational stuff 5-7 times a week
-
-    Self development:
-        *Accept yourself, forgive yourself, love yourself
-        *Practice mindfulness every day
-        *Live healthy: eat well, do sports, sleep well
-        *Master my craft: finance, computer science (data science), mathematics, statistics and probability
-        *Create a financial plan
-        *Raise my self esteem
-        *Develop better communication skills
-        *Practice confident body language and tonality
-        *Read 2 books a month
-
-
-""".title()
-
-series_dictionary = {
-    'Date': date.today(),
-    'Dreams': myDreams,
-    'Goals': myGoals
-}
-
-print(myDreams)
-print(myGoals)
-
-todays_goalsANDdreams = pd.Series(series_dictionary)
-
-filename = 'goalsANDdreams/' + str(date.today()) + '.goalsANDdreams' + '.csv'
-todays_goalsANDdreams.to_csv(filename)
+    f.write(s('-'))
+    f.write('These are my goals that I must complete, these actions will take me to my dreams' + '\n')
+    f.write(s('-'))
+    for goal in goals:
+        f.writelines(goal)
+        f.write('\n')
