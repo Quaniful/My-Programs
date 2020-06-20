@@ -20,6 +20,12 @@ Such is the salutation to the dawn.
 
 __Principles__
 
+Believe in yourself.
+
+God loves you.
+
+Be grateful for everything in your life: good and "bad".
+
 Curiousity.
     With imagination you can go anywhere, anytime.
 
@@ -58,9 +64,9 @@ Pain = Gain
 
 You can learn everything.
 
-If you fail a thousand times no one will remember it, if you succeed once it's your forever.
+If you fail a thousand times no one will remember it, if you succeed once it's yours forever.
 
-Sometimes you have to look stupid... in the name of progress.
+Sometimes you have to look stupid in the name of progress.
 
 Your values are what keeps you who you are, regardless of any high and low waves in life.
 
@@ -68,11 +74,15 @@ Evaluate work by impact, difficulty, initiative.
 
 Adopt an ant's philosophy towards your purpose.
 
-You have life changing ideas for a reason and it's NOT to torture yourself
+You have life changing ideas for a reason and it's NOT to torture yourself.
 
 Look at the goal!
 
-Sometimes when competing you're gonna have to play your opponent.
+Know the difference between YOUR mind and THE mind.
+
+Our brain is not programmed to make us successful, it is programmed to make us survive.
+
+Sometimes you're gonna have to play the person in front of you.
 
 Make THEM wanna pay money to see YOU!
 
@@ -144,6 +154,8 @@ Plan your day in a way that maximizes your effectiveness in accomplishing the go
 
 Never underestimate others.
 
+Rest.
+
 Never put other people down.
 
 If God put you in this spot right now, he's absolutely sure you have everything that it takes to handle it.
@@ -166,9 +178,9 @@ It's not over until it's over.
 
 Sarcasm is a pile of crap.
 
-Be authentic.
+Be authentic. Be real.
 
-Don't try to impress other people, do your thing.
+Don't try to impress other people, just do your thing and be yourself.
 
 Always do the right thing.
 
@@ -198,7 +210,7 @@ You gotta learn how to outsmart your own mind.
 
 I'm the only one who determines my image therefore no one else's actions or words or thoughts would affect my self esteem.
 
-You have 5 seconds to go for it before your defense kicks in, do it just for 5 minutes - your subconscious will do the rest.
+You have 5 seconds to go for it before your defense kicks in, push yourself to start, just for 5 minutes - and your subconscious will do the rest.
 
 Always remember where you came from.
 
@@ -206,6 +218,7 @@ Don't tell anybody to do something you wouldn't do yourself.
 
 With great power comes great responsibility.
 
+Don't ever brag.
 """
 
 fears_to_win_against = """
