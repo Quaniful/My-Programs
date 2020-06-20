@@ -3,6 +3,7 @@ Jim Rohn
 Leonardo DiCaprio
 Elon Musk?
 Warren Buffett
+Oprah Winfrey
 Jim Simons
 Bill Gates
 Steve Jobs
@@ -16,4 +17,6 @@ Grant Cardone
 Allen Carr
 Donald Trump
 Albert Einstein
+Les Brown
+Evan Carmichael
 """.title())

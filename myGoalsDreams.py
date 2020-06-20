@@ -41,9 +41,8 @@ dreams = """
 goals = """
 _Business:
     *Close down all my debts
-        * Bank 10000
+        * Bank 9400
         * Moran 1000
-        * Janie 1500
     *Develop a trading software with Shay that makes tons of money and put it to action:
         *Build an earnings model that uses option strategies
         *Finish the analyst recommendations model - backtest, optimization, wrap up.

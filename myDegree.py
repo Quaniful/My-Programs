@@ -39,13 +39,13 @@ Python libraries:
         Tkinter
 
 Other programming languages and softwares:
-    Git and GitHub
-    Terminal
+    [Git]
+    [Bash]
     Vim
-    MATLAB
-    SQL
+    [MATLAB]
+    [SQL]
     R
-    Spreadsheets
+    [Spreadsheets]
     Go
     C/C++/C#
     HTML/XML/other web langauges

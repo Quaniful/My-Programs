@@ -2,6 +2,7 @@ principles = """
 
 ךומכ ךערל תבהאו
 רשעתתש רשע
+דחפל הממ ןיא הנומא שיש ימל
 
 Look to this day!
 For it is life, the very life of life.
@@ -25,6 +26,8 @@ Curiousity.
 Stop caring about how you look and what other people think of you.
 
 Never complain.
+
+Live in next 5 seconds. Plan for the next 10 years. Dream for the next 100 years.
 
 Being different is a gift.
 
@@ -53,11 +56,19 @@ Hard work beats talent when talent doesn't work hard.
 Your failures, your mistakes, your pain is what makes you.
 Pain = Gain
 
+You can learn everything.
+
+If you fail a thousand times no one will remember it, if you succeed once it's your forever.
+
 Sometimes you have to look stupid... in the name of progress.
+
+Your values are what keeps you who you are, regardless of any high and low waves in life.
 
 Evaluate work by impact, difficulty, initiative.
 
 Adopt an ant's philosophy towards your purpose.
+
+You have life changing ideas for a reason and it's NOT to torture yourself
 
 Look at the goal!
 
@@ -78,6 +89,12 @@ Don't wish it was easier, wish you were better.
 If you will change, everything will change for you.
 
 Vitality is a major part of success.
+
+If you are good, why wouldn't you deserve good?
+
+Learn how to let your mind slow down, unwind for a bit.
+
+There's no rush, take care of yourself.
 
 My happiness and my health come first.
 
@@ -111,6 +128,8 @@ Think how you can have the biggest impact.
 
 You have a lot to talk about and a lot to share? great, it doesn't mean you HAVE TO go over ALL OF IT right now or else you're doomed, take it easy.
 
+You are allowed to receive the beauty that life has to offer, allow yourself to receive it.
+
 "Shut down the iron doors on the past and the future - live in day tight compartments."
 
 "One grain of sand at the time."
@@ -126,6 +145,8 @@ Plan your day in a way that maximizes your effectiveness in accomplishing the go
 Never underestimate others.
 
 Never put other people down.
+
+If God put you in this spot right now, he's absolutely sure you have everything that it takes to handle it.
 
 Think chess, not checkers.
 
@@ -163,6 +184,40 @@ If you dont have a program for your mind, your mind is going to be programmed.
 
 Never make a point without a story and never make a story without a point.
 
+Don't chase the easy things, push yourself to do the difficult things first.
+
+The mind is not designed to make you successful, it is designed to make you survive.
+
+Learn about the mind.
+
+You have life changing ideas for a reason and it's NOT to torture yourself
+
+It's okay to fear.
+
+You gotta learn how to outsmart your own mind.
+
+I'm the only one who determines my image therefore no one else's actions or words or thoughts would affect my self esteem.
+
+You have 5 seconds to go for it before your defense kicks in, do it just for 5 minutes - your subconscious will do the rest.
+
+Always remember where you came from.
+
+Don't tell anybody to do something you wouldn't do yourself.
+
+With great power comes great responsibility.
+
+"""
+
+fears_to_win_against = """
+
+Fear of Success
+Fear of God
+Fear of Insanity
+Fear of Embarrassment
+Fear of Being Judged
+Fear of Being Envied
+Fear of High School Colleagues
+
 """
 
 trading_principles = """
@@ -178,6 +233,32 @@ Trading principles:
     Know the math behind your money management and stick with it.
 
     Trade small and trade many positions.
-"""
+
+    Know why other people failed in the past and learn from their mistakes.
+
+    Understand leverage.
+
+    Volatility is the most important thing to understand about trading.
+
+    Trade liquid markets only, it's a losing battle in advance if you're unable to get a fair price.
+
+    Price is what you pay. Value is what you get.
+
+    If you're shopping for long term value - ask yourself:
+        How does this business generate cash?
+        Is the company performing well with the resources it has right now?
+        How does the company plan to achieve more growth in the future?
+        Does the company have a unique competitive advantage over its peers?
+        Who's in the driver's seat? do I trust those people?
+        If the company had more money, what would it do with it? how would it affect the business?
+        Am I getting paid to hold shares? can I expect to get paid more for holding shares in the future?
+        What are the company's assets?
+        How much debt does the company have? who's the creditors? what's the structure of the debt? how and when is it paid?
+        Can the company meet all its commitments?
+        Am I paying a fair price for owning the perceived future value of this business?
+        What is the best case scenario if I buy into this company? what is the worst case? what's the most likely?
+
+    Don't twist the facts so that they look good. View the facts objectively.
+
 
 print(principles)
