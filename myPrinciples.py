@@ -259,6 +259,6 @@ Trading principles:
         What is the best case scenario if I buy into this company? what is the worst case? what's the most likely?
 
     Don't twist the facts so that they look good. View the facts objectively.
-
+"""
 
 print(principles)
