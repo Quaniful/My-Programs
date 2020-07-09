@@ -1,0 +1,28 @@
+_Business:
+    *Close down all my debts
+        * Bank 9400
+        * Moran 1000
+    *Develop a trading software with Shay that makes tons of money and put it to action:
+        *Build an earnings model that uses option strategies
+        *Finish the analyst recommendations model - backtest, optimization, wrap up.
+_Things:
+    *Go to the two Tony Robbins seminars in the next 12 months
+    *Put tefilin on every day, stay connected and be grateful to God
+    *Go over your goals every morning and write what you're going to do today to make it a winning day.
+    *Train my back to be straight: use back exercises and UPRIGHT
+    *Listen to motivational stuff 5-7 times a week
+    *Pass the end of July exams: economics, statistics & financing
+        *Watch all lectures in both courses
+        *Do all homework
+        *Do all the previous exams
+    *Go watch an NBA game, preferably the Lakers with LeBron on the court!
+_Self Development:
+    *Accept yourself, forgive yourself, love yourself
+    *Practice mindfulness every day
+    *Live healthy: eat well, do sports, sleep well
+    *Master my craft: finance, computer science (data science), mathematics, statistics and probability
+    *Create a financial plan
+    *Raise my self esteem
+    *Develop better communication skills
+    *Practice confident body language and tonality
+    *Read 2 books a month

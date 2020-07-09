@@ -1,0 +1,25 @@
+daily-
+'eat well',
+'sleep well',
+'meditate',
+'exercise',
+'work',
+'study',
+'goals refresher',
+'take pills',
+'3 daily wins',
+'read',
+'reflect',
+'feed the mind',
+'give thanks',
+'teeth brushing',
+'shower',
+'pray',
+'organize room',
+'code']
+
+weekly-
+['reflect', 'hour of power', 'change your sheets']
+
+monthly-
+['finance time', 'goal setting']

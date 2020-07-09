@@ -1,0 +1,42 @@
+Trading principles:
+    Many, many uncorrelated *strategies* that produce positive expected returns (satisfying positive EV).
+
+    The market is made out of people, if you wanna understand trading and win at this game ...
+    you need to understand who are the people trading, why, what tools they have and how exactly are they using them ...
+    then you will be able to use this knowledge to build smart trading strategies that will give you the edge.
+
+    <Risk <and> Reward> are two different sides of the same coin.
+
+    Know the math behind your money management and stick with it.
+
+    Trade small and trade many positions.
+
+    Know why other people failed in the past and learn from their mistakes.
+
+    Understand leverage.
+
+    Stop saying: but, just, mmm, fine, should, ...
+
+    Volatility is the most important thing to understand about trading.
+
+    Trade liquid markets only, it's a losing battle in advance if you're unable to get a fair price.
+
+    Price is what you pay. Value is what you get.
+
+    If you're shopping for long term value - ask yourself:
+        How does this business generate cash?
+        Is the company performing well with the resources it has right now?
+        How does the company plan to achieve more growth in the future?
+        Does the company have a unique competitive advantage over its peers?
+        Who's in the driver's seat? do I trust those people?
+        If the company had more money, what would it do with it? how would it affect the business?
+        Am I getting paid to hold shares? can I expect to get paid more for holding shares in the future?
+        What are the company's assets?
+        How much debt does the company have? who's the creditors? what's the structure of the debt? how and when is it paid?
+        Can the company meet all its commitments?
+        Am I paying a fair price for owning the perceived future value of this business?
+        What is the best case scenario if I buy into this company? what is the worst case? what's the most likely?
+
+    Don't twist the facts so that they look good. View the facts objectively.
+
+    History doesn't repeat itself, but it rhyme.

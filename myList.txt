@@ -1,38 +1,27 @@
-things = """
+Things:
 Read the 54 weekly torah portion every week for a full jewish year.
-"""
+Go to the dentist
+Go for a facial treatment
 
-shopping = """
+Shop:
+MacBook Pro
+Tony Robbins seminar trips
+    Plane tickets and accommodation x2
 Tesla Model S
 MANY MANY SHORTS
 The CRC Encyclopedia of Mathematics
     For now I'll enjoy Wikipedia, YouTube and the rest of the internet :)
-MacBook Pro
 Laser
 Black TOMS
-Tony Robbins seminar trips
-    Plane tickets and accommodation x2
 Sexy electric guitar jff :)
 PS5
 4K TV
 Gunnar Computer Glasses
 Pad
 Table stickers - more!
-"""
+Vinyl Player
 
-done = '''
+Shopped:
 RGB TKL Wireless Keyboard
     CoolerMaster SK631 Wireless Cherry MX RGB Low Profile Switch
-'''
-
-food_cart = [
-    'lemon',
-    'olive oil',
-    'tuna',
-    'salmon',
-    'olives',
-    'tomatoes',
-    'cuecumbers'
-]
-
-
+Sports Clothing

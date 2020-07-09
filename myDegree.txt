@@ -1,0 +1,89 @@
+__Finance__
+
+    Stocks
+    Options
+    Futures
+    Currencies
+
+    Market
+    Participants
+    Psychology
+
+    Trading Strategies
+
+    Accounting
+    Economics
+    Business cycles
+
+    Valuation
+    Interest rates
+    Volatility
+    The Fed
+
+    Portfolio optimization
+    Pricing models
+
+    Role models
+    International economics
+
+
+__Computer Science__
+
+
+Python:
+    Algo trading
+    Data processing using Pandas
+    Financial modeling and simulation
+    Data visualizing
+    Importing real time/historical data from an API
+    Web scraping using requests and BeautifulSoup
+    Automation
+    NLP
+    AI/ML/RL using Scikit-Learn, TensorFlow, Keras, PyTorch, etc
+
+Monte Carlo Simulations
+
+Working with Files
+Cloud
+
+Other programming languages that can be useful:
+    MATLAB
+    SQL
+    R
+    Go
+    Git
+
+
+__Math__Statistics__Probability__
+
+
+Algebra
+Geometry
+
+Calculus
+    Functions
+    Limits
+    Derivatives
+    Integrals
+    Differential Equations
+
+Linear Algebra
+
+Statistics and Probability
+    Mean, Median, Mode, Range
+    Variance, Standard Deviation
+    Distributions
+
+    Markov chains
+    Random walks
+
+Artificial Intelligence
+    Classification
+    Regression
+    Supervised learning
+    Unsupervised learning
+    Neutral networks
+    Reinforcement learning
+
+
+Stochastic calculus
