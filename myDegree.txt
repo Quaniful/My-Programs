@@ -66,6 +66,7 @@ Calculus
     Derivatives
     Integrals
     Differential Equations
+    Stochastics
 
 Linear Algebra
 

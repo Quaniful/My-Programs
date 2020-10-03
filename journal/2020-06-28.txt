@@ -1,0 +1,68 @@
+
+======================================================================
+Sunday
+2020-06-28
+17:56
+
+Just had a meeting with Shay, I'm excited about starting to code our new earnings algorithm soon!
+
+We spoke about different strategies for earnings, we decided that we're going with 3 options: strangles, iron condors, chicken iron condors
+
+As far as expected move goes, we agreed that each strategy should cover it. Plus we've laid out 2 other metrics: 1 SD, past 8 earnings mean return
+
+As far as risk per trade goes, we introduced a metric: credit/buying power that has to be over 8%, % bid/ask spreads got to be 10% or lower, BP used per trade must be 5% of lower of the total account value, strangles goat least $.60 to be worth getting into
+
+Next time we're going to talk about trade management and close it up with the portfolio monitor. Gonna meet again on Tuesday.
+      __...--~~~~~-._   _.-~~~~~--...__
+    //               `V'               \
+   //                 |                 \
+  //__...--~~~~~~-._  |  _.-~~~~~~--...__\
+ //__.....----~~~~._\ | /_.~~~~----.....__\
+====================\|//====================
+======================================================================
+======================================================================
+Sunday
+2020-06-28
+18:06
+
+I'm not sure why but the last few days I feel a bit down, I also found myself looking at other people's cigarettes once or twice, I think it's because I kind of "stopped" growing at a big pace this last week and my studies have made me feel down, I felt inadequate opening up the exams ... I was arguing with my mom on Friday about some nonsense, I must stay out of these silly arguments, nothing I'm gonna say is going to change her behavior.
+
+I think that in order to get myself up I need to study and feel confident about my exams, need to work well with Shay and develop a strategy that brings me an income finally and contI think adding meditations twice day, some reflecting and thinking time is going to do me a lot of good. Plus I gotta sit down with myself and lay out plans, dreams, goals and so on, give more purpose and clarity to life.\
+
+More than anything, be loud! stop saying "fine", "but" and other STUPID words. be yourself and do what feels good! read your principles.
+      __...--~~~~~-._   _.-~~~~~--...__
+    //               `V'               \
+   //                 |                 \
+  //__...--~~~~~~-._  |  _.-~~~~~~--...__\
+ //__.....----~~~~._\ | /_.~~~~----.....__\
+====================\|//====================
+======================================================================
+
+======================================================================
+Sunday
+2020-06-28
+20:36
+
+I'm listening to the Dragon Ball Z soundtrack on Spotify after just watching Gohan turning super saiyan 2 against cell, this will forever be my favorite show.
+
+Goku and his friends represent more about life to me than any other show, Goku is absolutely amazing, so strong yet so good hearted. This series taught me what it means to be pure hearted.
+      __...--~~~~~-._   _.-~~~~~--...__
+    //               `V'               \
+   //                 |                 \
+  //__...--~~~~~~-._  |  _.-~~~~~~--...__\
+ //__.....----~~~~._\ | /_.~~~~----.....__\
+====================\|//====================
+======================================================================
+======================================================================
+Sunday
+2020-06-28
+20:37
+
+I wanna watch Dragon Ball Z again! I don't freakin' care that I'm 26 years oldd! Best show ever ...
+      __...--~~~~~-._   _.-~~~~~--...__
+    //               `V'               \
+   //                 |                 \
+  //__...--~~~~~~-._  |  _.-~~~~~~--...__\
+ //__.....----~~~~._\ | /_.~~~~----.....__\
+====================\|//====================
+======================================================================

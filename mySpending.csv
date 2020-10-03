@@ -1,0 +1,17 @@
+,Type,Amount,Due,Category
+Lease,Fixed,2250,5th,Car
+Insurance,Fixed,752,15th,Car
+Savings,Fixed,525.0,5th,Savings
+Donate,Variable,500.0,flexible,Donations
+Fuel,Variable,300,flexible,Car
+Loans,Fixed,160,15th,Loans
+Carwash,Variable,100,flexible,Car
+Phone,Fixed,76,15th,Necessities
+Pointer,Fixed,58,15th,Car
+Audible,Fixed,52.5,15th,Self Development
+Waking Up,Fixed,50,15th,Health
+Netflix,Fixed,32,15th,Entertainment
+YT,Fixed,20,15th,Necessities
+GSuite,Fixed,17.5,15th,Business
+Books,Variable,0,flexible,Self Development
+Going Out,Variable,0,flexible,Entertainment
